@@ -1,0 +1,41 @@
+.bla{
+	width: 100px;
+	height: 100px;
+	background: #2F4F4F;
+	font-size: 100px;
+	color: #8A0829;
+	cursor: pointer;
+}
+
+.ble{
+	background: #000088;
+}
+
+table{
+  width: 45%;
+  margin-bottom : .5em;
+  table-layout: fixed;
+  text-align: center;
+  border-collapse:collapse;
+  border:2px solid #CCC;
+}
+
+#tabela tr {
+	border:2px solid #CCC;
+}
+
+#tabela td {
+	width:120px;
+	height:120px;
+	padding:10px;
+	border:2px solid #CCC;
+}
+.botao{
+    width: 350px;
+    text-align: center;
+    padding: 15px 20px;
+    border: 2px solid #eee;
+    border-radius: 6px;
+    background-color:#5F9EA0;
+    font-size: 36px;
+}
